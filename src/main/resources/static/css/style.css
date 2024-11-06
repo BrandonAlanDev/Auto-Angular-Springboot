@@ -1,0 +1,6 @@
+body{
+    margin: auto;
+    background-color: #4100aa;
+    background: linear-gradient(45deg,#4100aa,#501f45);
+    background-attachment: fixed;
+}
